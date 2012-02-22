@@ -9,9 +9,10 @@ Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
-Requires:         R-methods R-RGtk2 R-gWidgets R-gWidgetsRGtk2 
-BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-methods R-RGtk2 R-gWidgets R-gWidgetsRGtk2
-BuildRequires:    gtk2-devel     
+Requires:         R-methods R-RGtk2 R-gWidgets R-gWidgetsRGtk2
+BuildRequires:    R-devel Rmath-devel texlive-collection-latex
+BuildRequires:    R-methods R-RGtk2 R-gWidgets R-gWidgetsRGtk2
+BuildRequires:    gtk2-devel
 BuildRequires:    pkgconfig(libglade-2.0)
 BuildRequires:    x11-server-xvfb
 
