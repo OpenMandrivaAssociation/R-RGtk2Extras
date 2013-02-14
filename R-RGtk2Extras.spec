@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.5.0
+Version:          0.6.1
 Release:          1
 Summary:          Data frame editor and dialog making wrapper for RGtk2
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/RGtk2Extras_0.6.1.tar.gz
 Requires:         R-methods R-RGtk2 R-gWidgets R-gWidgetsRGtk2
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
 BuildRequires:    R-methods R-RGtk2 R-gWidgets R-gWidgetsRGtk2
