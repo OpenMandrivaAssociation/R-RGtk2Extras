@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.6.1
-Release:          1
+Release:          2
 Summary:          Data frame editor and dialog making wrapper for RGtk2
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
