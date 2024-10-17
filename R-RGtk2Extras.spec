@@ -7,7 +7,7 @@ Release:          2
 Summary:          Data frame editor and dialog making wrapper for RGtk2
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/RGtk2Extras_0.6.1.tar.gz
 Requires:         R-methods R-RGtk2 R-gWidgets R-gWidgetsRGtk2
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex
